@@ -1,5 +1,8 @@
 # 🚀 End-to-End Automated Hotel Data Pipeline with Incremental Load & Power BI Report On Orders Cancellations, Sales & Cost Analysis And Performance Monitoring
 
+#Live Report Link
+https://app.fabric.microsoft.com/reportEmbed?reportId=6ce1face-5ad0-45a0-ab24-a81df4dbfab5&autoAuth=true&ctid=6053364a-accf-434d-9c4b-bb9a58ff8468
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=2ECC71&size=28&center=true&vCenter=true&width=900&lines=Analytical+Engineering+Project;End-to-End+Data+Pipeline;Incremental+Ingestion+and+Loading;Automation+with+Power+Automate;Data+Engineering+Project">
 </p>
